@@ -1,0 +1,12 @@
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\bin\Debug\Complete_The_Task(Goose Chase).exe.config
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\bin\Debug\Complete_The_Task(Goose Chase).exe
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\bin\Debug\Complete_The_Task(Goose Chase).pdb
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task(Goose Chase).csproj.AssemblyReference.cache
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task_Goose_Chase_.Form1.resources
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task_Goose_Chase_.Properties.Resources.resources
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task(Goose Chase).csproj.GenerateResource.cache
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task(Goose Chase).csproj.CoreCompileInputs.cache
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task(Goose Chase).exe
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task(Goose Chase).pdb
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task_Goose_Chase_.Win_Screen.resources
+C:\Users\DarCas816\OneDrive - Berks Career & Technology Center\Level 3\C#\Programs\Complete_The_Task(Goose Chase)\Complete_The_Task(Goose Chase)\obj\Debug\Complete_The_Task_Goose_Chase_.Lose_Screen.resources
